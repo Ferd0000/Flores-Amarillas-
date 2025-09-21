@@ -25,7 +25,8 @@ window.onload = () => {
         "que trajiste a mi vida desde que llegaste. Cada pétalo\n" +
         "es un recordatorio de que a tu lado siempre hay motivos para\n" +
         "sonreír y soñar, incluso en los días más grises. Eres mi\n" +
-        "primavera constante, el abrazo cálido que ilumina mi corazón."; 
+        "primavera constante, el abrazo cálido que ilumina mi corazón.\n"+
+        "TEEE AMOOOO MI LIZIII HERMOSAAAAAA <3"; 
 
     const poemElement = document.getElementById("poem-text");
     const root = document.documentElement;
